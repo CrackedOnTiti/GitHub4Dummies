@@ -24,9 +24,27 @@ To do so you will both need to use the "git checkout -b" that will create a bran
 
 Now you both should be on a different branch P1 on his and P2 on his.
 
+Now you must both tell github "Hey i just created a branch", with the following command "git push --set-upstream ... ..."
+
 ## **STEP 4**
 
 P2 will now do an ✨Automatic Merge✨, in his branch P2 will create a function that prints "GitHub!" under "Hello, Wolrd!".
 Once the function works, P2 will add/commit/push, then return to the main branch.
 
-Once on the main branch P2 will merge his branch to the main. With "git merge <BranchName>" 
+Once on the main branch P2 will merge his branch to the main. But this time not with the merge command. You are going to checkout you're online repo on github.
+Something strange has appeared? Compare and Pull, try it out!
+
+If done correctly this is a automatic merge, and should be done with no modification to the code.
+
+You should now both pull from main to update you're local repos.
+
+## **STEP 5**
+
+P1 However will do a ✨conflicting merge✨, P1 will now **modify** his old code and change the print "Hello, World!" to "Goodbye, World!".
+once that is done he will push to main...
+
+This time, the pull request on git will be different. And you will have the opportunity to fix a conflicting merge.
+
+# **THATS ALL FOLKS**
+
+The purpose of this activity is to use the merging tool on git. **But** what about the stumper? Firstly **Dont use git on during you're stumpers unless you have mastered the tool** but if you have then how can you merge without using the site? Well that would be with the "Git merge Branchname" command. This will enable you to merge without accessing the git website. Now that the exercise has been finished you are free to either experiment with git functions, or train on this website [https://learngitbranching.js.org].
