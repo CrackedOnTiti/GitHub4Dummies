@@ -40,10 +40,7 @@ You should now both pull from main to update you're local repos.
 
 ## **STEP 5**
 
-P1 However will do a ✨conflicting merge✨, P1 will now **modify** his old code and change the print "Hello, World!" to "Goodbye, World!".
-once that is done he will push to main...
-
-This time, the pull request on git will be different. And you will have the opportunity to fix a conflicting merge.
+Great, now try and have fun and do merges together, maybe eventually you will create a ✨conflicting merge✨. I you do, you are on your own, try and understand an complete the merge
 
 # **THATS ALL FOLKS**
 
