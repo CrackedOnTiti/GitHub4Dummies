@@ -8,6 +8,7 @@
 int main(void)
 {
     printf("i like big cookies\n");
-    int okayy = 69;
+    printf("i don't big cookies\n");
+    
     return 0;
 }
