@@ -7,5 +7,6 @@
 
 int main(void)
 {
+    printf("i like big cocks\n");
     return 0;
 }
