@@ -8,6 +8,6 @@
 int main(void)
 {
     printf("i like big cookies\n");
-    printf("holy carp\n");
+    int okayy = 69;
     return 0;
 }
