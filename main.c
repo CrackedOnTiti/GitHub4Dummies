@@ -9,5 +9,6 @@ int main(void)
 {
     printf("i like big cookies\n");
     int okayy = 69;
+    int kooo = 420;
     return 0;
 }
