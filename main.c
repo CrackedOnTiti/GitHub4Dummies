@@ -7,6 +7,6 @@
 
 int main(void)
 {
-    printf("i like big cocks\n");
+    printf("i like big cookies\n");
     return 0;
 }
